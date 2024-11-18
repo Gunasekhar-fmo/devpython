@@ -25,4 +25,5 @@ Can be achieved via CI/CD pipelines.
 
 # 1. Python Essentials for Devops 
 
+***You can become a powerful DevOps practitioner by learning only a small subset of python***
 
